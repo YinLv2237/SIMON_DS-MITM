@@ -6,3 +6,6 @@ This python file generates the .lp file including MILP constraints in the distin
 
 #DSMITM_SIMON_Key.py
 This python file generates the .lp file including MILP constraints in the dinstinguisher combined with key recovery phase.
+
+#feasible solutions
+This folder includes the feasible DS-MITM solutions for all versions of SIMON.
